@@ -4,26 +4,25 @@ Lab 5
 * Número aproximado de horas para completar esta tarea
 ******************************************************************************/
 Número de horas:
-
+12
 
 /******************************************************************************
 * ¿Encontraste algún problema serio? Si es así, por favor descríbelo.
 ******************************************************************************/
 
 ¿Sí o no?
-
+no
 
 /******************************************************************************
 * Escribe cualquier otro comentario aquí.
 ******************************************************************************/
-
-
+me ayudo mucho el prompt que esta en el canal general para entender mucho mejor y practicar 
 
 /******************************************************************************
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)
  ******************************************************************************/
 
-[escribe el enlace aquí]
+[https://github.com/malejab2409-netizen]
 
 /******************************************************************************
  *  Escribe y firma el siguiente reconocimiento estudiantil de trabajo original.
@@ -34,5 +33,6 @@ Número de horas:
  *      con las regulaciones de la Universidad.  /s/ Ada Lovelace
  ******************************************************************************/
 
-[escribe y firma la declaración aquí]
+[Esta tarea de programación representa mi propio trabajo de acuerdo 
+con las regulaciones de la Universidad. /s/ Maria Alejandra Benitez ]
 
