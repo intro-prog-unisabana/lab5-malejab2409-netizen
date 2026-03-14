@@ -9,5 +9,5 @@ def input_response(generate_value, user_input):
     else: 
         mensaje ="Correct! You guessed the number!"
         correcto = True 
-    return mensaje, correcto
+    #return mensaje, correcto
 
