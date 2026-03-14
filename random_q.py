@@ -5,4 +5,4 @@ end = int(input("Enter the end value:\n"))
 
 
 resultado = random.randint(start, end)
-print(f"Generates random number:{resultado}")
+print(f"Generated random number:{resultado}")
