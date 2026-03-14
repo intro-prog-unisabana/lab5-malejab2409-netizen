@@ -1,7 +1,7 @@
 import os
 
 directorio_actual = os.getcwd()
-print(f"Current working diectory: {directorio_actual}")
+print(f"Current working directory: {directorio_actual}")
 
 import math
 num = input("Enter an integer: ")
