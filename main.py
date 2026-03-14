@@ -10,11 +10,11 @@ def main():
             print("Invalid option!")
             continue
         if opcion == "absolute":
-            num = float(input("Enter the number:"))
-            resultado = absolute(num)
+            num = float(input("Enter the number: "))
+            result = absolute(num)
         else:
-            num1 = float(input("Enter the first number:"))
-            num2 = float(input("Enter the second number:"))
+            num1 = float(input("Enter the first number: "))
+            num2 = float(input("Enter the second number: "))
             if opcion == "add":
                 result= add(num1, num2)
             elif opcion == "subtract":
