@@ -1,6 +1,6 @@
 def list_shift (lista, cantidad ):
     for i in range(len(lista)):
-        lista[i] = lista [i] + cantidad
+        lista[i] += cantidad
 def calc_avg (lista):
     return sum(lista) / len(lista)
 def print_normalized (lista):
