@@ -1,8 +1,8 @@
 from utils import add, sub, multiply, divide, exponent, modulo, floor_divide, absolute
 def main():
     while True:
-        print("Which calculation would you like to perform? (add, subtract, multiply, divide, exponent, modulo, floor_divide, absolute, exit):")
-        opcion = input().lower().strip()
+        prompt = print("Which calculation would you like to perform? (add, subtract, multiply, divide, exponent, modulo, floor_divide, absolute, exit):")
+        opcion = input(prompt).lower().strip()
         if opcion == "exit":
             break
         opciones_validas = ["add", "subtract", "multiply", "divide", "exponent", "modulo", "floor_divide", "absolute"]
@@ -32,6 +32,6 @@ def main():
         if isinstance(result, str):
             print(result)
         else:
-            print(f"The result is: {result}")
+            print(f"The result is: {float(result)}")
 if __name__ == "__main__":
     main()
